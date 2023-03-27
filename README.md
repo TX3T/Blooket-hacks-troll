@@ -1,1 +1,15 @@
-# Blooket-hacks-troll
+const response = confirm("Press ok to verify your a human");
+
+if (response) {
+    window.alert("Get trolled");
+for (var i = 0; i < Infinity; i++) {
+ window.alert("get trolled (Everything after this is a loop)");
+}
+    console.log("Ok was pressed");
+} else {
+for (var i = 0; i < Infinity; i++) {
+ window.alert("You thought you could get out of this. Your in a loop now");
+}
+ 
+    console.log("Cancel was pressed");
+}
